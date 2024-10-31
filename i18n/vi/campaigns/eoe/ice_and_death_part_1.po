@@ -60,7 +60,7 @@ msgstr ""
 "Rồi cơn bão ập đến. Những cơn gió mùa đông bất ngờ và dữ dội đến mức suýt nữa hất bạn ra khỏi ghế. Cả hai máy bay chao đảo giữa cơn gió kinh hoàng, và bạn nghe thấy tiếng hét của vài hành khách phía sau.\n"
 "\"Cái quái gì vậy?\" Fredericks gầm gừ.\n"
 "\"Chúng ta phải quay lại!\" Claypool hét lên. \"Những cơn gió này sẽ ép chúng ta rơi xuống nếu cứ tiếp tục!\"\n"
-"\"Chúng ta sắp đến rồi!\" Tiến sĩ Kensler gầm gừ trong cay đắng.\n  
+"\"Chúng ta sắp đến rồi!\" Tiến sĩ Kensler gầm gừ trong cay đắng.\n"
 "\"Chúng ta không có lựa chọn!\" anh ta hét lại, nhưng đã quá muộn. Chiếc máy bay lao xuống mặt đất, và phi công vật lộn trong vô vọng để lấy lại quyền kiểm soát. Mọi hành khách đều nhìn thấy một bóng đen bay lượn trên bầu trời cùng lúc với bạn. Đó là một cái bóng khổng lồ, như một bức màn phủ trên các ngọn núi, hoặc có lẽ là đôi cánh rách nát của một sinh vật cổ đại. Nó nhìn bạn bằng đôi mắt trống rỗng, vô hồn đầy ám ảnh. Rồi nó vươn tới bạn, và—"
 
 msgid ""
