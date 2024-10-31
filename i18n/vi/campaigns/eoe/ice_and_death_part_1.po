@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 
 msgid "Ice and Death, Part I"
-msgstr ""
+msgstr "Băng và Cái chết"
 
 msgid "Scenario I: Ice and Death, Part I"
 msgstr ""
